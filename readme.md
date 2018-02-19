@@ -4,6 +4,7 @@ Intro to SpriteKit (2D scenes), SceneKit (3D scenes), and ARKit (augmented reali
 
 The talk featured a number of iPad and iPhone screen capture videos rather than jumping out to a real device. They are labeled in the slide notes in alphabetical order. 
 
-_[original session web page](https://swiftbynorthwest.com/spritekit-scenekit-arkit-oh-my-justin-miller)_
+* _[Swift by Northwest session page](https://swiftbynorthwest.com/spritekit-scenekit-arkit-oh-my-justin-miller)_
+* _[Portland CocoaHeads meetup page](https://www.meetup.com/PDX-iOS-CocoaHeads/events/246978613/)_
 
 ![slides.pdf](title.png)
